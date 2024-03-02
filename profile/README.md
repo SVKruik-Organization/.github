@@ -1,6 +1,6 @@
 ## SVKruik-Organization
 
-[![Release Broadcast](https://github.com/SVKruik-Organization/Discord-Bots/actions/workflows/broadcast.yml/badge.svg?branch=main&event=release)](https://github.com/SVKruik-Organization/Discord-Bots/actions/workflows/broadcast.yml)
+[![Release Broadcast](https://github.com/SVKruik-Organization/Discord-Bots/actions/workflows/broadcast.yml/badge.svg)](https://github.com/SVKruik-Organization/Discord-Bots/actions/workflows/broadcast.yml)
 
 Welcome to the `SVKruik-Organization`, a repository created to streamline the whole Discord Bot project. This organization features a wide variety of sub-projects featuring their own techstack, while still being closely connected to eachother.
 
