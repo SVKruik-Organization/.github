@@ -1,7 +1,8 @@
 ## SVKruik-Organization
 
 [![Deploy Application](https://github.com/SVKruik-Organization/Bot-Website/actions/workflows/deploy.yml/badge.svg)](https://github.com/SVKruik-Organization/Bot-Website/actions/workflows/deploy.yml)
-[![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fbots.stefankruik.com%2Fapi%2Fstatus%2Fbadge)](https://bots.stefankruik.com)
+[![Website Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fbots.stefankruik.com%2Fapi%2Fstatus%2Fbadge)](https://bots.stefankruik.com)
+[![Documentation Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fdocs.stefankruik.com%2Fapi%2Fstatus%2Fbadge)](https://docs.stefankruik.com)
 
 Welcome to the `SVKruik-Organization`, a repository created to streamline and organize the whole Discord Bot project. This organization features a wide variety of sub-projects featuring their own techstack, while still being closely connected to eachother.
 
