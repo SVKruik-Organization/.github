@@ -1,6 +1,7 @@
 ## SVKruik-Organization
 
-[![Deploy Application](https://github.com/SVKruik-Organization/Bot-Website/actions/workflows/deploy.yml/badge.svg)](https://github.com/SVKruik-Organization/Bot-Website/actions/workflows/deploy.yml)
+[![Deploy Website](https://github.com/SVKruik-Organization/Bot-Website/actions/workflows/deploy.yml/badge.svg)](https://github.com/SVKruik-Organization/Bot-Website/actions/workflows/deploy.yml)
+[![Deploy Bots](https://github.com/SVKruik-Organization/Discord-Bots/actions/workflows/deploy.yml/badge.svg)](https://github.com/SVKruik-Organization/Discord-Bots/actions/workflows/deploy.yml)
 [![Website Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fbots.stefankruik.com%2Fapi%2Fstatus%2Fbadge)](https://bots.stefankruik.com)
 [![Documentation Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fdocs.stefankruik.com%2Fapi%2Fstatus%2Fbadge)](https://docs.stefankruik.com)
 
@@ -9,7 +10,7 @@ Welcome to the `SVKruik-Organization`, a repository created to streamline and or
 This organization features several key repositories:
 
 - [Discord Bots](https://github.com/SVKruik-Organization/Discord-Bots): the repository for the bots. Serving as an API for the other applications.
-- [Bot Website](https://github.com/SVKruik-Organization/Bot-Website): the platform to manage your accounts & download Bot Commander from.
+- [Bot Website](https://github.com/SVKruik-Organization/Bot-Website): SK Platform, a hub to manage your accounts, learn about the entire project and read the docs.
 - [Bot Commander](https://github.com/SVKruik-Organization/Bot-Commander): a advanced configuration interface for the bots.
 - [Bot Administrator](https://github.com/SVKruik-Organization/Bot-Administrator): the administrator version of the Commander app reserved for staff.
 
