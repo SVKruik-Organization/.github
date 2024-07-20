@@ -5,11 +5,11 @@
 [![Website Status](https://img.shields.io/endpoint?url=https%3A%2F%2Fbots.stefankruik.com%2Fapi%2Fstatus%2Fbadge)](https://bots.stefankruik.com)
 [![Documentation Status](https://img.shields.io/endpoint?url=https%3A%2F%2Fdocs.stefankruik.com%2Fapi%2Fstatus%2Fbadge)](https://docs.stefankruik.com)
 
-Welcome to the SK Platform project. Here you'll find all the products/projects I am working on for the past few years that you can find [here](https://bots.stefankruik.com). Almost everything is open-source and contributions (from typo fixing to shipping new features) from other skilled developers are always welcome. Most products feature different techstacks, while still being connected with the [SK Uplink](https://github.com/SVKruik-Organization/Uplink) network.
+Welcome to the SK Platform project. Here you'll find all the products/projects I have been working on for the past few years. You can find them all in action [here](https://bots.stefankruik.com). Almost everything is open-source and contributions from other skilled developers are always welcome. Most products feature different techstacks, while still being connected with the [SK Uplink](https://github.com/SVKruik-Organization/Uplink) network.
 
 Interested in what I am working on right now and what is to come in the future? Check out the [GitHub Project](https://github.com/orgs/SVKruik-Organization/projects/1) and [roadmap](https://bots.stefankruik.com/documentation/read/Doc/More/Roadmap).
 
-Want to learn about what SK Platform ships? Check out the extensive documentation [here](https://bots.stefankruik.com/documentation).
+Want to learn more about what SK Platform even is? Check out the extensive documentation [here](https://bots.stefankruik.com/documentation/read/Doc/More/About).
 
 ---
 
