@@ -1,17 +1,36 @@
-## SVKruik-Organization
+## SK Platform
 
-[![Deploy Website](https://github.com/SVKruik-Organization/Bot-Website/actions/workflows/deploy.yml/badge.svg)](https://github.com/SVKruik-Organization/Bot-Website/actions/workflows/deploy.yml)
+[![Deploy Platform](https://github.com/SVKruik-Organization/Bot-Website/actions/workflows/deploy.yml/badge.svg)](https://github.com/SVKruik-Organization/Bot-Website/actions/workflows/deploy.yml)
 [![Deploy Bots](https://github.com/SVKruik-Organization/Discord-Bots/actions/workflows/deploy.yml/badge.svg)](https://github.com/SVKruik-Organization/Discord-Bots/actions/workflows/deploy.yml)
-[![Website Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fbots.stefankruik.com%2Fapi%2Fstatus%2Fbadge)](https://bots.stefankruik.com)
-[![Documentation Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fdocs.stefankruik.com%2Fapi%2Fstatus%2Fbadge)](https://docs.stefankruik.com)
+[![Website Status](https://img.shields.io/endpoint?url=https%3A%2F%2Fbots.stefankruik.com%2Fapi%2Fstatus%2Fbadge)](https://bots.stefankruik.com)
+[![Documentation Status](https://img.shields.io/endpoint?url=https%3A%2F%2Fdocs.stefankruik.com%2Fapi%2Fstatus%2Fbadge)](https://docs.stefankruik.com)
 
-Welcome to the `SVKruik-Organization`, a repository created to streamline and organize the whole Discord Bot project. This organization features a wide variety of sub-projects featuring their own techstack, while still being closely connected to eachother.
+Welcome to the SK Platform project. Here you'll find all the products/projects I am working on for the past few years that you can find [here](https://bots.stefankruik.com). Almost everything is open-source and contributions (from typo fixing to shipping new features) from other skilled developers are always welcome. Most products feature different techstacks, while still being connected with the [SK Uplink](https://github.com/SVKruik-Organization/Uplink) network.
+
+Interested in what I am working on right now and what is to come in the future? Check out the [GitHub Project](https://github.com/orgs/SVKruik-Organization/projects/1) and [roadmap](https://bots.stefankruik.com/documentation/read/Doc/More/Roadmap).
+
+Want to learn about what SK Platform ships? Check out the extensive documentation [here](https://bots.stefankruik.com/documentation).
+
+---
 
 This organization features several key repositories:
 
-- [Discord Bots](https://github.com/SVKruik-Organization/Discord-Bots): the repository for the bots. Serving as an API for the other applications.
-- [Bot Website](https://github.com/SVKruik-Organization/Bot-Website): SK Platform, a hub to manage your accounts, learn about the entire project and read the docs.
-- [Bot Commander](https://github.com/SVKruik-Organization/Bot-Commander): a advanced configuration interface for the bots.
-- [Bot Administrator](https://github.com/SVKruik-Organization/Bot-Administrator): the administrator version of the Commander app reserved for staff.
+- [Bot Website](https://github.com/SVKruik-Organization/Bot-Website): SK Platform website, a hub to manage your accounts, learn about the entire project and read the docs.
+- [Discord Bots](https://github.com/SVKruik-Organization/Discord-Bots): SK Bots, the modern and intuitive newest generation Discord bots.
+- [Uplink](https://github.com/SVKruik-Organization/Uplink): SK Uplink, the RabbitMQ communication network that makes SK Platform a hive mind.
 
-Altough there is a lot going on, this organization is still a one-man operation. If you would like to contribute, do not hesitate to [reach out](mailto:sv.kruik@gmail.com?subject=SVKruik%20Organization%20Contributing&body=Please%20specify%20in%20what%20part%20of%20the%20infrastructure%20you%20would%20like%20to%20contribute.%0A%0AOr%20just%20ask%20for%20my%20other%20modes%20of%20communication%2C%20and%20we%20can%20link!)!
+And some more repositories:
+
+- [Bot Commander](https://github.com/SVKruik-Organization/Bot-Commander): an advanced but sleek configuration interface for your bots and Operator account.
+- [Bot Administrator](https://github.com/SVKruik-Organization/Bot-Administrator): the administrator version of the Commander app reserved for staff (well, me).
+
+Altough there is a lot going on, this organization is still a one-man operation. If you would like to contribute (coding, designing, documenting), do not hesitate to [reach out](https://bots.stefankruik.com/documentation/read/Doc/Contributing)!
+
+---
+
+[<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vuejs/vuejs-original.svg" />](https://vuejs.org/)
+[<img align="left" alt="Discord.JS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/discordjs/discordjs-original.svg" />](https://discord.js.org/)
+[<img align="left" alt="RabbitMQ" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rabbitmq/rabbitmq-original.svg"/>](https://www.rabbitmq.com/)
+[<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />](https://www.typescriptlang.org/)
+[<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/laravel/laravel-original.svg"/>](https://laravel.com/)
+[<img align="left" alt="Bash" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"/>](https://www.gnu.org/software/bash/)
