@@ -21,8 +21,8 @@ This organization features several key repositories:
 
 And some more repositories:
 
-- [Bot Commander](https://github.com/SVKruik-Organization/SK-Commander): an advanced but sleek configuration interface for your bots and Operator account.
-- [Bot Administrator](https://github.com/SVKruik-Organization/SK-Administrator): the administrator version of the Commander app reserved for staff (well, me).
+- [SK Commander](https://github.com/SVKruik-Organization/SK-Commander): an advanced and sleek configuration interface to manage your SK products and Operator account.
+- [SK Administrator](https://github.com/SVKruik-Organization/SK-Administrator): the administrator version of the SK Commander app reserved for staff.
 
 Altough there is a lot going on, this organization is still a one-man operation. If you would like to contribute (coding, designing, documenting), do not hesitate to [reach out](https://platform.stefankruik.com/documentation/read/Doc/Contributing)!
 
